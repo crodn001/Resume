@@ -37,4 +37,4 @@ Record, assemble, and produce customer satisfaction through the creation of in-s
 -	Active member of Haitian Student Organization
 -	Public Relations Officer for For The Culture Mag
 
-
+ 
