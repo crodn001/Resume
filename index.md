@@ -11,29 +11,30 @@ Minor: Social Media & E-Marketing Analytics
 Division of IT - Telecommunications Service Management Group, Student Assistant
 December 2017 - Today
 Manage every line across all FIU campuses by adding, change, reassigning, etc.
-- Work side by side with IT technicians
-- Frequent usage of VoiP
+- Bulleted Work side by side with IT technicians
+- Bulleted Frequent usage of VoiP
 
 ### The Home Depot, Pembroke Pines, FL
 Order Fulfilling Associate
 May 2016 - December 2017
 Record, assemble, and produce customer satisfaction through the creation of in-store orders, online orders, exports, and front door delivery.
--	Contact and communicate with over 30 customers and vendors through phone calls and emails to increase and maintain customer satisfaction
--	Consistently utilize time management skills by regularly executing order and follow-up deadlines on or before time
--	Multitask assembling orders by responding to customers and their questions when approached face to face
+-	Bulleted Contact and communicate with over 30 customers and vendors through phone calls and emails to increase and maintain customer satisfaction
+-	Bulleted Consistently utilize time management skills by regularly executing order and follow-up deadlines on or before time
+-	Bulleted Multitask assembling orders by responding to customers and their questions when approached face to face
 
 ## Skills
--	Working knowledge in Microsoft Word, PowerPoint, and Excel
--	Working knowledge in Adobe Photoshop & Adobe Illustrator
--	Working knowledge in Java programming
--	Diversity Certification Training: Excellence in Service
--	Excellent customer service skills   
+-	Bulleted Working knowledge in Microsoft Word, PowerPoint, and Excel
+-	Bulleted Working knowledge in Adobe Photoshop & Adobe Illustrator
+-	Bulleted Working knowledge in Java programming
+-	Bulleted Diversity Certification Training: Excellence in Service
+-	Bulleted Excellent customer service skills   
 
 ## School Involvement
--	Treasurer of the Caribbean Students Association
--	Coordinator of Fundraising Committee of Caribbean Students Association
--	Active member of Black Student Union
--	Active member of Haitian Student Organization
--	Public Relations Officer for For The Culture Mag
+-	Bulleted Treasurer of the Caribbean Students Association
+-	Bulleted Coordinator of Fundraising Committee of Caribbean Students Association
+-	Bulleted Coordinator of Fundraising Committee of Caribbean Students Association
+-	Bulleted Active member of Black Student Union
+-	Bulleted Active member of Haitian Student Organization
+-	Bulleted Public Relations Officer for For The Culture Mag
 
 
