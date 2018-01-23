@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Christian Rodney
+Miramar, Florida | Phone: 954-348-1132
+         Crodn001@fiu.edu
 
-You can use the [editor on GitHub](https://github.com/crodn001/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
+Florida International University, Miami, FL
+Bachelor of Science, Information Technology                                                                                          Expected Garduation: May 2019
+Minor: Social Media & E-Marketing Analytics
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Work Experience
+### Florida International University, Miami, FL
+Division of IT - Telecommunications Service Management Group, Student Assistant
+December 2017 - Today
+Manage every line across all FIU campuses by adding, change, reassigning, etc.
+" Work side by side with IT technicians
+" Frequent usage of VoiP
 
-### Markdown
+### The Home Depot, Pembroke Pines, FL
+Order Fulfilling Associate
+May 2016 - December 2017
+Record, assemble, and produce customer satisfaction through the creation of in-store orders, online orders, exports, and front door delivery.
+"	Contact and communicate with over 30 customers and vendors through phone calls and emails to increase and maintain customer satisfaction
+"	Consistently utilize time management skills by regularly executing order and follow-up deadlines on or before time
+"	Multitask assembling orders by responding to customers and their questions when approached face to face
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
+"	Working knowledge in Microsoft Word, PowerPoint, and Excel
+"	Working knowledge in Adobe Photoshop & Adobe Illustrator
+"	Working knowledge in Java programming
+"	Diversity Certification Training: Excellence in Service
+"	Excellent customer service skills   
 
-```markdown
-Syntax highlighted code block
+## School Involvement
+"	Treasurer of the Caribbean Students Association
+"	Coordinator of Fundraising Committee of Caribbean Students Association
+"	Active member of Black Student Union
+"	Active member of Haitian Student Organization
+"	Public Relations Officer for For The Culture Mag
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crodn001/Resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
